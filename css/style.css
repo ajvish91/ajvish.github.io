@@ -1,0 +1,77 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+#ajay-img {
+    width: 10pc;
+}
+.row-main {
+    padding: 20px;
+    margin: 20px;
+}
+a {
+    color: black;
+}
+
+.icons {
+    width: 30px;
+}
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+#abstract {
+    font-size: small;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f3f3f3;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+#tabs .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #eee;
+    font-size: 20px;
+}
+li {padding: 10px;}
+
+.proj-sec {
+    padding: 20px;
+    margin: 10px;
+}
+
+.proj-sec > .row {
+    padding: 20px;
+    margin: 10px;
+    border: 0.5px;
+    border-style: solid;
+    border-color: #c8c8c8;
+    border-radius: 5px;
+}
+
+.proj-sec > .row >.col {
+    align-content: center;
+}
+
+#more {display: none;}
+
+.proj {
+    width: 300px;
+}
+.nicole {
+    height: 300px;
+}
+h6 {
+    color: gray;
+}
+
+.row .blog {
+    padding: 10px;
+    margin: 5px;
+}
